@@ -40,4 +40,5 @@ Rollback
     migrate-mongo status
     migrate-mongo down
 
-
+# The mongodb collection where the applied changes are stored. 
+<img src="assets/changelog.JPG" >
