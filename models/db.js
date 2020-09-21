@@ -1,6 +1,6 @@
 
 /**const MongoClient = require('mongodb').MongoClient;
-const uri = "mongodb+srv://clustername:password@clustername.m3luf.gcp.mongodb.net/membership?retryWrites=true&w=majority";//cluster update
+const uri = "mongodb+srv://clustername:password@clustername.m3luf.gcp.mongodb.net/membership?retryWrites=true&w=majority";//cluster updated due to security
 const client = new MongoClient(uri, { useNewUrlParser: true });
 client.connect(err => {
  // const collection = client.db("member").collection("devices");
